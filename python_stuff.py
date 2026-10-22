@@ -23,3 +23,4 @@ for char in string:
     print(reversed_text)
 print(reversed_text)
 print(string)
+print(list(string))
