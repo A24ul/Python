@@ -76,3 +76,10 @@ print("--- %s seconds ---" % (time.time() - start_time))
 
 number = 100
 print(max(1, number))
+
+
+
+lst = [83, 4, 24, 2]
+print(lst[:0])
+print(lst[0])
+print(lst[0+1:])
